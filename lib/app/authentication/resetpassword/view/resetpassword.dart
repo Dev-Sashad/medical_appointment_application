@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:health/app/authViews/resetpassword/cubit/reset_password_cubit.dart';
+import 'package:health/app/authentication/resetpassword/cubit/reset_password_cubit.dart';
 import 'package:health/app/widget/generalButton.dart';
 import 'package:health/app/widget/text_form.dart';
 import 'package:health/utils/constants/colors.dart';

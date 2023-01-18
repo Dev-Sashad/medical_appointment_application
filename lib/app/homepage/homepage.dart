@@ -5,7 +5,7 @@ import 'package:health/utils/constants/colors.dart';
 import 'package:health/utils/constants/helpers.dart';
 import 'package:health/utils/constants/screensize.dart';
 import 'package:health/utils/constants/textstyle.dart';
-import 'package:health/app/sideNav/sideNav.dart';
+import 'package:health/app/side_nav_screen/sideNav.dart';
 import 'package:health/utils/locator.dart';
 import 'package:health/utils/mixins/ui_tool_mixin.dart';
 import 'package:health/utils/router/routeNames.dart';

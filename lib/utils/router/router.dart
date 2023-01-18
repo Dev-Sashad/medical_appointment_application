@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:health/utils/router/routeNames.dart';
-import 'package:health/app/authViews/SignUp/view/signup.dart';
-import 'package:health/app/authViews/login/view/loginpage.dart';
-import 'package:health/app/authViews/resetpassword/view/resetpassword.dart';
+import 'package:health/app/authentication/SignUp/view/signup.dart';
+import 'package:health/app/authentication/login/view/loginpage.dart';
+import 'package:health/app/authentication/resetpassword/view/resetpassword.dart';
 import 'package:health/app/booking_form/view/booking_form.dart';
 import 'package:health/app/booking_history/view/booking_history.dart';
 import 'package:health/app/bookings/bookings.dart';

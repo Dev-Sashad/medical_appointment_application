@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:health/utils/constants/colors.dart';
 import 'package:health/utils/locator.dart';
 import 'package:health/utils/mixins/ui_tool_mixin.dart';
-import 'package:health/app/authViews/login/view/loginpage.dart';
+import 'package:health/app/authentication/login/view/loginpage.dart';
 import 'package:health/app/homepage/homepage.dart';
 import '../cubit/splash_cubit.dart';
 import '../state/splash_screen_state.dart';

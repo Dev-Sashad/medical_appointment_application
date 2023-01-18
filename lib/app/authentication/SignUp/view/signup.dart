@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:health/app/authViews/SignUp/bloc/signup_bloc.dart';
-import 'package:health/app/authViews/SignUp/event/signup_event.dart';
+import 'package:health/app/authentication/SignUp/bloc/signup_bloc.dart';
+import 'package:health/app/authentication/SignUp/event/signup_event.dart';
 import 'package:health/utils/constants/enum.dart';
 import 'package:health/utils/constants/helpers.dart';
 import 'package:health/utils/general_state/general_state.dart';

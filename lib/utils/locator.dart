@@ -1,8 +1,8 @@
 import 'package:get_it/get_it.dart';
-import 'package:health/app/authViews/SignUp/bloc/signup_bloc.dart';
-import 'package:health/app/authViews/forgotpassword/cubit/forgot_password_cubit.dart';
-import 'package:health/app/authViews/login/bloc/login_bloc.dart';
-import 'package:health/app/authViews/resetpassword/cubit/reset_password_cubit.dart';
+import 'package:health/app/authentication/SignUp/bloc/signup_bloc.dart';
+import 'package:health/app/authentication/forgotpassword/cubit/forgot_password_cubit.dart';
+import 'package:health/app/authentication/login/bloc/login_bloc.dart';
+import 'package:health/app/authentication/resetpassword/cubit/reset_password_cubit.dart';
 import 'package:health/app/booking_form/cubit/booking_form_cubit.dart';
 import 'package:health/app/booking_history/cubit/booking_history_cubit.dart';
 import 'package:health/app/view_more_info/bloc/view_more_info_bloc.dart';

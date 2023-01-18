@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:health/app/authViews/login/event/login_event.dart';
+import 'package:health/app/authentication/login/event/login_event.dart';
 import 'package:health/core/model/base_response.dart';
 import 'package:health/core/repository/auth_repo.dart';
 import 'package:health/core/services/auth_data_service.dart';
